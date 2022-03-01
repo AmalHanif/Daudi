@@ -24,7 +24,7 @@ When all the depots are setup for the OMC in question, copy over the IDs obtaine
 ### Depot Mapping cheatsheet
 
 CZVGfgb4iaLDA5l7BAjl - Eldoret
-GaRFUjEpcM2YcKfQCLr8 - VTTI
+GaRFUjEpcM2YcKfQCLr8 - NAKURU
 IEUYY6BytsxKB1MzA4S7 - Kisumu
 Kf2qa3DtflkqO1dQDbms - Oilcom
 mKxvgC44gOZztr4rGuEk - Gulf
